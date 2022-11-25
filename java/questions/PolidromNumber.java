@@ -16,6 +16,7 @@ public class PolidromNumber {
 
 
         System.out.println(isPalindrome(1221));
+        
 
 
 
